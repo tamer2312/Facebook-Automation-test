@@ -1,0 +1,2 @@
+# Facebook-Automation-test
+ Test class files - Test class for each test scenario - can also run independently • Each file includes detailed documentation (by whom it was written / edited, when, what the function performs) • The code includes handling exception and reference to running in front of different environments and different data • Run log - to which the program will report any action • General results report - to which the plan will report the test results
